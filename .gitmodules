@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "agentr"]
+	path = agentr
+	url = https://github.com/oliverlds/agentr
 [submodule "binxr"]
 	path = binxr
 	url = https://github.com/oliverlds/binxr
