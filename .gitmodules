@@ -8,6 +8,9 @@
 [submodule "binxr"]
 	path = binxr
 	url = https://github.com/oliverlds/binxr
+[submodule "inferencer"]
+	path = inferencer
+	url = https://github.com/oliverlds/inferencer
 [submodule "okxr"]
 	path = okxr
 	url = https://github.com/oliverlds/okxr
