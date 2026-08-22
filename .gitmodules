@@ -11,6 +11,9 @@
 [submodule "inferencer"]
 	path = inferencer
 	url = https://github.com/oliverlds/inferencer
+[submodule "investdatar"]
+	path = investdatar
+	url = https://github.com/oliverlds/investdatar
 [submodule "okxr"]
 	path = okxr
 	url = https://github.com/oliverlds/okxr
