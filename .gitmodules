@@ -17,3 +17,6 @@
 [submodule "okxr"]
 	path = okxr
 	url = https://github.com/oliverlds/okxr
+[submodule "strategyr"]
+	path = strategyr
+	url = https://github.com/oliverlds/strategyr
