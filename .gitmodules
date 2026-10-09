@@ -20,3 +20,6 @@
 [submodule "strategyr"]
 	path = strategyr
 	url = https://github.com/oliverlds/strategyr
+[submodule "tradesimr"]
+	path = tradesimr
+	url = https://github.com/oliverlds/tradesimr
