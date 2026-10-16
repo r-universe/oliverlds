@@ -14,6 +14,9 @@
 [submodule "investdatar"]
 	path = investdatar
 	url = https://github.com/oliverlds/investdatar
+[submodule "investlabr"]
+	path = investlabr
+	url = https://github.com/oliverlds/investlabr
 [submodule "okxr"]
 	path = okxr
 	url = https://github.com/oliverlds/okxr
